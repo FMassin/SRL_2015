@@ -3,6 +3,9 @@
 Scripts and data to reproduce results presented in Behr et al., SRL, 2015 
 
 Running all scripts requires Python >= 2.7 and the following extra Python packages:
+scons
+wxmpl        
+lxml
 matplotlib  
 numpy  
 scipy  
